@@ -46,8 +46,8 @@
 ### 📫 Contact Me
 
 - Portfolio: [beastlyorca.me](https://beastlyorca.me)
-- GitHub: [@nadirbakridi](https://github.com/nadirbakridi)
-- LinkedIn: [linkedin.com/in/nadirbakridi](https://www.linkedin.com/in/nadirbakridi)
+- GitHub: [@nadirbakridi](https://github.com/BeastlyOrca)
+- LinkedIn: [linkedin.com/in/nadirbakridi]([https://www.linkedin.com/in/nadirbakridi](https://www.linkedin.com/in/nadir-bakridi-04132116a/))
 - Email: beastlyorca@gmail.com
 
 ---
