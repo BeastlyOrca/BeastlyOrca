@@ -55,4 +55,4 @@
 
 ### 💬 Fun Fact
 
-> I love creating immersive experiences that teach or entertain — from simulating optics in VR to dodging spheres in WebGL.
+> I love creating immersive experiences that teach or entertain — from simulating optics in VR to dodging cubes in WebGL.
