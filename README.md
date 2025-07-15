@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Stats
 
-![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadirbakridi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadirbakridi&layout=compact&theme=radical)
+![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeastlyOrcai&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastlyOrca&layout=compact&theme=radical)
 
 ---
 
@@ -48,7 +48,7 @@
 - Portfolio: [beastlyorca.me](https://beastlyorca.me)
 - GitHub: [@nadirbakridi](https://github.com/nadirbakridi)
 - LinkedIn: [linkedin.com/in/nadirbakridi](https://www.linkedin.com/in/nadirbakridi)
-- Email: nadir.bakridi@example.com
+- Email: beastlyorca@gmail.com
 
 ---
 
