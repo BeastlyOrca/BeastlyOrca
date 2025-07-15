@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=nadirbakridi&theme=radical)
+
 
 <h1 align="center">Hi 👋, I'm Nadir Bakridi</h1>
 <h3 align="center">Creative developer blending code, design, and interactivity through games, XR, and full-stack apps.</h3>
