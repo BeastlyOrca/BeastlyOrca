@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats
 
-![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeastlyOrcai&show_icons=true&theme=radical)
+![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeastlyOrca&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastlyOrca&layout=compact&theme=radical)
 
 ---
